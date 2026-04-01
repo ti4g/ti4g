@@ -14,9 +14,6 @@
   <a href="https://github.com/ti4g?tab=followers">
     <img src="https://custom-icon-badges.demolab.com/github/followers/ti4g?color=E0A030&labelColor=C07010&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
   </a>
-  <a href="https://github.com/ti4g?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://api.github.com/users/ti4g&query=public_repos&style=for-the-badge&color=E0A030&labelColor=C07010&label=Repositórios&logo=repo&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -25,7 +22,7 @@
 
 Desenvolvedor web focado na criação de aplicações **modernas, responsivas e funcionais** utilizando **HTML, CSS e JavaScript**.
 
-Tenho experiência prática com projetos reais — plataformas web, catálogos digitais e aplicações interativas — sempre priorizando **experiência do usuário, performance e design**.
+Tenho experiência prática com projetos reais, plataformas web, catálogos digitais e aplicações interativas, sempre priorizando **experiência do usuário, performance e design**.
 
 Meu background em design digital me permite criar interfaces mais **intuitivas, atrativas e bem estruturadas**.
 
