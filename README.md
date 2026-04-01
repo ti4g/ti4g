@@ -34,13 +34,8 @@ Meu background em design digital me permite criar interfaces mais **intuitivas, 
 ## 🤖 Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,github,windows,notion,ai,linkedin&theme=dark" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github&theme=dark" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white&style=for-the-badge" height="48"/>
-</p>
-
 ---
 
 ## 🗂️ Projetos em Destaque
