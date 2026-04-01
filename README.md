@@ -1,180 +1,122 @@
-# 👩🏻‍💻 Tiago Quixaba
+# 👨‍💻 Tiago Quixaba
 
-**`Desenvolvedor Web Front-End`**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=E0A030&size=22&center=true&vCenter=true&width=650&lines=Desenvolvedor+Web+Front-End;Criando+interfaces+modernas+e+funcionais;Design+%2B+Código+%3D+Experiência+real" />
+</p>
 
-Desenvolvedor web focado na criação de aplicações modernas, responsivas e funcionais utilizando **HTML, CSS e JavaScript**.
-
-Tenho experiência prática com projetos reais, incluindo plataformas web, catálogos digitais e aplicações interativas, sempre priorizando **experiência do usuário, performance e design**.
-
-Também possuo background em design digital, o que me permite criar interfaces mais intuitivas, atrativas e bem estruturadas.
-
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tiagokxb">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://takashicontabilidad.my.canva.site/tiago">
+    <img src="https://img.shields.io/badge/Portfólio-111?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ti4g?tab=followers">
+    <img src="https://custom-icon-badges.demolab.com/github/followers/ti4g?color=E0A030&labelColor=C07010&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ti4g?tab=repositories&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/ti4g?color=55960c&labelColor=488207&style=for-the-badge&logo=star&label=Estrelas"/>
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Desenvolvedor web focado na criação de aplicações **modernas, responsivas e funcionais** utilizando **HTML, CSS e JavaScript**.
 
-<br/>
-<br/>
+Tenho experiência prática com projetos reais — plataformas web, catálogos digitais e aplicações interativas — sempre priorizando **experiência do usuário, performance e design**.
 
-### 📊 Estatísticas
+Meu background em design digital me permite criar interfaces mais **intuitivas, atrativas e bem estruturadas**.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 🤖 Linguagens e Tecnologias
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git&theme=dark" />
+</p>
+
+---
+
+## 🗂️ Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 JaFoiMeu</h3>
+      <p align="center">Plataforma de revenda digital com foco em organização e UX</p>
+      <p align="center">
+        <a href="https://ti4g.github.io/JaFoiMeu/">
+          <img src="https://img.shields.io/badge/Acessar%20Projeto-E0A030?style=for-the-badge&logo=firefox&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👟 Sneaker Drops</h3>
+      <p align="center">Catálogo digital de tênis com design moderno e interatividade</p>
+      <p align="center">
+        <a href="https://ti4g.github.io/Sneaker-Drops/">
+          <img src="https://img.shields.io/badge/Acessar%20Projeto-E0A030?style=for-the-badge&logo=firefox&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">☕ CyberCoffee</h3>
+      <p align="center">Aplicação web temática com identidade visual imersiva</p>
+      <p align="center">
+        <a href="https://ti4g.github.io/CyberCoffee/">
+          <img src="https://img.shields.io/badge/Acessar%20Projeto-E0A030?style=for-the-badge&logo=firefox&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👖 Jeanzap</h3>
+      <p align="center">Catálogo digital responsivo focado em conversão</p>
+      <p align="center">
+        <a href="https://ti4g.github.io/jeanzap/">
+          <img src="https://img.shields.io/badge/Acessar%20Projeto-E0A030?style=for-the-badge&logo=firefox&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 WhatIsAllmosso</h3>
+      <p align="center">Aplicação web interativa com lógica em JavaScript</p>
+      <p align="center">
+        <a href="https://ti4g.github.io/whatisallmosso/">
+          <img src="https://img.shields.io/badge/Acessar%20Projeto-E0A030?style=for-the-badge&logo=firefox&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔁 JaFoiMeu (revenda)</h3>
+      <p align="center">Plataforma web para listagem de produtos usados</p>
+      <p align="center">
+        <a href="https://ti4g.github.io/JaFoiMeu/">
+          <img src="https://img.shields.io/badge/Acessar%20Projeto-E0A030?style=for-the-badge&logo=firefox&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ti4g&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ti4g&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" />
+</p>
+
+---
+
+## 🐍 Snake de Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ti4g/ti4g/output/github-contribution-grid-snake-dark.svg" />
 </p>
