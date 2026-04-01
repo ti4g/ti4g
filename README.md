@@ -33,7 +33,6 @@ Meu background em design digital me permite criar interfaces mais **intuitivas, 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,vscode,github,windows,notion,ai,linkedin&theme=dark" />
 </p>
----
 
 ## 🗂️ Projetos em Destaque
 
