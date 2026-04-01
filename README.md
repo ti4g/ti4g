@@ -14,8 +14,8 @@
   <a href="https://github.com/ti4g?tab=followers">
     <img src="https://custom-icon-badges.demolab.com/github/followers/ti4g?color=E0A030&labelColor=C07010&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
   </a>
-  <a href="https://github.com/ti4g?tab=repositories&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/ti4g?color=55960c&labelColor=488207&style=for-the-badge&logo=star&label=Estrelas"/>
+  <a href="https://github.com/ti4g?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://api.github.com/users/ti4g&query=public_repos&style=for-the-badge&color=E0A030&labelColor=C07010&label=Repositórios&logo=repo&logoColor=white"/>
   </a>
 </p>
 
@@ -35,6 +35,10 @@ Meu background em design digital me permite criar interfaces mais **intuitivas, 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github&theme=dark" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white&style=for-the-badge" height="48"/>
 </p>
 
 ---
@@ -73,10 +77,10 @@ Meu background em design digital me permite criar interfaces mais **intuitivas, 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">👖 Jeanzap</h3>
-      <p align="center">Catálogo digital responsivo focado em conversão</p>
+      <h3 align="center">🏐 AceVolley</h3>
+      <p align="center">Plataforma web temática para o universo do vôlei</p>
       <p align="center">
-        <a href="https://ti4g.github.io/jeanzap/">
+        <a href="https://ti4g.github.io/AceVolley/">
           <img src="https://img.shields.io/badge/Acessar%20Projeto-E0A030?style=for-the-badge&logo=firefox&logoColor=white"/>
         </a>
       </p>
@@ -108,15 +112,7 @@ Meu background em design digital me permite criar interfaces mais **intuitivas, 
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ti4g&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ti4g&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" />
-</p>
-
----
-
-## 🐍 Snake de Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ti4g/ti4g/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://streak-stats.demolab.com/?user=ti4g&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
