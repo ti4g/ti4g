@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/tiagokxb">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="ti4g.github.io/myportfolio/">
+  <a href="https://ti4g.github.io/myportfolio/">
     <img src="https://img.shields.io/badge/Portfólio-111?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   <a href="https://github.com/ti4g?tab=followers">
